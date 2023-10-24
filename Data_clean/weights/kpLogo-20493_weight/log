@@ -1,0 +1,25 @@
+[Fri May 12 06:49:14 2023] Summary: 
+[Fri May 12 06:49:14 2023]    Input       :   kpLogo.input.txt
+[Fri May 12 06:49:14 2023]    Background  :   kpLogo.background.txt
+[Fri May 12 06:49:14 2023]    Output      :   kpLogo.output.*
+[Fri May 12 06:49:14 2023]    alphabet    :   ACGT
+[Fri May 12 06:49:14 2023]    min_kmer    :   1
+[Fri May 12 06:49:14 2023]    max_kmer    :   4
+[Fri May 12 06:49:14 2023]    min_shift   :   0
+[Fri May 12 06:49:14 2023]    max_shift   :   0
+[Fri May 12 06:49:14 2023]    degenerate  :   ACGTN
+[Fri May 12 06:49:14 2023]    p           :   1.010000
+[Fri May 12 06:49:14 2023]    start at    :   1
+[Fri May 12 06:49:14 2023] 1514 sequences loaded from kpLogo.input.txt
+[Fri May 12 06:49:14 2023] 1440 sequences left after removing sequences containing residuals not present in alphabet
+[Fri May 12 06:49:14 2023] making frequency logo...
+[Fri May 12 06:49:14 2023] making information content logo...
+[Fri May 12 06:49:14 2023] fixed position: 31	32	30
+[Fri May 12 06:49:14 2023] fixed residual  : C	G	T
+[Fri May 12 06:49:14 2023] 340 exact kmers to be tested
+[Fri May 12 06:49:14 2023] 500 k-mers allowing degenerate bases
+[Fri May 12 06:49:14 2023] 30124 tests (kmer x position x shifts) will be performed
+[Fri May 12 06:49:20 2023] 11181 positional kmers with p <1.010000
+[Fri May 12 06:49:20 2023] plotting the most significant kmer at each position...
+[Fri May 12 06:49:20 2023] plotting single nucleotide profile...
+[Fri May 12 06:49:23 2023] Done!
